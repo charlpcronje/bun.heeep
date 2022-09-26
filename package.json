@@ -1,0 +1,12 @@
+{
+  "name": "bun.heepp",
+  "module": "index.ts",
+  "type": "module",
+  "types": "./heepp/lib/main.d.ts",
+  "scripts": {
+    "start": "bun run index.ts"
+  },
+  "devDependencies": {
+    "bun-types": "^0.1.0"
+  }
+}
